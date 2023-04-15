@@ -3,7 +3,8 @@
 
 
 # a right join operation
- between two tables, sales_target and order_details, on the Category column. The resulting table will have all the rows from the order_details table and matching rows from the sales_target table. This will display the monthly sales target for each product category, along with the order details for each order  # the profit for orders with a specific quantity (5) of products across all categories.
+ between two tables, sales_target and order_details, on the Category column. The resulting table will have all the rows from the order_details table and matching rows from the sales_target table. This will display the monthly sales target for each product category, along with the order details for each order 
+ the profit for orders with a specific quantity (5) of products across all categories.
 
 
 #retrieving the orders made by a particular customer
