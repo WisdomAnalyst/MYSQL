@@ -7,7 +7,7 @@
  the profit for orders with a specific quantity (5) of products across all categories.
 
 
-#retrieving the orders made by a particular customer
+# retrieving the orders made by a particular customer
  (Manish) over time, ordered by the order ID.
 
 
